@@ -5,9 +5,9 @@ Flutter Developer, UI/UX Designer
 
 [![Twitter: JuanCarlos93wc](https://img.shields.io/twitter/follow/JuanCarlos93wc?style=social)](https://twitter.com/JuanCarlos93wc) [![GitHub Stratovarius93](https://img.shields.io/github/followers/Stratovarius93?label=follow&style=social)](https://github.com/stratovarius93) [![LinkedIn: Juan Carlos Catagña](https://img.shields.io/badge/LinkedIn-JuanCarlosCatagna-blue?style=flat&logo=linkedin&llabelColor=blue)](https://www.linkedin.com/in/juan-carlos-catagña-ab8b69191/)
 
-<img height="42" src="https://apprecio.mx/wp-content/uploads/2022/07/apprecio.png">
+<img height="42" src="https://media.licdn.com/dms/image/D4E0BAQH1sTwYuEan8w/company-logo_200_200/0/1706731733210/tipti_sa_logo?e=1729728000&v=beta&t=pSt96238XY33Ae0a3AxAdZ_F_OcN-ot1-DKErbc17Sc">
 
-- 🦖  I work as an software engineer at [Apprecio MX](https://apprecio.mx).
+- 🦖  I work as an software engineer at [Tipti S.A.](https://tipti.market).
 - 🌎 I like read about tech and programming languages news on Twitter.
 - ✍🏽 I wrote my first [Medium Post](https://medium.com/@www-warcry/instalar-flutter-sin-android-studio-en-arch-linux-o-manjaro-f44820f76dbe). But I will write more in the future
 - 🎮 I like play video games and watch Netflix series.
