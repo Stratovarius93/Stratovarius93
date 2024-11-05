@@ -5,7 +5,7 @@ Flutter Developer, UI/UX Designer
 
 [![Twitter: JuanCarlos93wc](https://img.shields.io/twitter/follow/JuanCarlos93wc?style=social)](https://twitter.com/JuanCarlos93wc) [![GitHub Stratovarius93](https://img.shields.io/github/followers/Stratovarius93?label=follow&style=social)](https://github.com/stratovarius93) [![LinkedIn: Juan Carlos Catagña](https://img.shields.io/badge/LinkedIn-JuanCarlosCatagna-blue?style=flat&logo=linkedin&llabelColor=blue)](https://www.linkedin.com/in/juan-carlos-catagña-ab8b69191/)
 
-<img height="42" src="https://media.licdn.com/dms/image/D4E0BAQH1sTwYuEan8w/company-logo_200_200/0/1706731733210/tipti_sa_logo?e=1729728000&v=beta&t=pSt96238XY33Ae0a3AxAdZ_F_OcN-ot1-DKErbc17Sc">
+<img height="42" src="https://lh3.googleusercontent.com/p/AF1QipOUGSH_GVZAeuFvniAD-li0bUXjJXu8FYiIjUNs=s680-w680-h510">
 
 - 🦖  I work as an software engineer at [Tipti S.A.](https://tipti.market).
 - 🌎 I like read about tech and programming languages news on Twitter.
@@ -21,4 +21,7 @@ Flutter Developer, UI/UX Designer
 [![Juan' Github Stats](https://github-readme-stats.vercel.app/api?username=stratovarius93&count_private=true&theme=default&show_icons=true)](https://github.com/stratovarius93)
 ## 👨🏽‍💻  Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stratovarius93)](https://github.com/stratovarius93)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/juan_dev)
+
 
